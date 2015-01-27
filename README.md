@@ -1,2 +1,1 @@
-# TCC
-Teste
+#TCC - Trabalho de conclusão de curso.
